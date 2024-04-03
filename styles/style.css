@@ -146,10 +146,4 @@ img {
     .apresentacao__conteudo {
         width: auto;
     }
-
-    .apresentacao__imagem {
-        width: 50%;
-        height: auto;
-        max-width: 50%;
-    }
 }
